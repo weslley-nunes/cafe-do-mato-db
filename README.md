@@ -1,4 +1,4 @@
-☕ Café do Mato - Modelagem de Banco de Dados
+☕ Café do Mato - Modelagem de Banco de Dados - Versão 1.1
 📍 Contexto do Projeto
 Este repositório faz parte de uma atividade prática do módulo de Modelagem de Banco de Dados e Controle de Versão, no curso de Tecnologia da Informação.
 
